@@ -42,7 +42,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## 📦 Deployment
 
-Deploy to Vercel or Netlify by connecting your GitHub repository.
+Deploy to Vercel(https://maya-reynolds-therapy-livid.vercel.app/) by connecting your GitHub repository.
 
 ## 🔧 Tech Stack
 
